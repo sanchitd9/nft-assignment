@@ -1,6 +1,8 @@
-# nft-assignment
+# NFT Assignment
 
-This project involved the creation of our own NFT.
+### https://github.com/sanchitd9/nft-assignment
+
+This project involves the creation of our own NFT.
 
 The steps followed were as follows:
 
